@@ -1,8 +1,7 @@
-
-<!DOCTYPE html>
 <html>
 <head>
     <title>音声ファイル再生リスト</title>
+    <link rel='stylesheet' href='sopotify_style.css' type='text/css'>
 </head>
 <body>
     <label for="fileInput">音声ファイルを選択してください：</label>
