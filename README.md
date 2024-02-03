@@ -1,5 +1,4 @@
 # sopotify
-<!DOCTYPE html>
 <html>
 <head>
     <title>音声ファイル再生リスト</title>
