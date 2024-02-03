@@ -12,6 +12,12 @@
     
     <input type="range" id="volumeSlider" min="0" max="1" step="0.01" value="1">
     
+    <br>
+    <p>
+    再生する回数
+    </p>
+    <input type="text" id="gets_number" size="1">
+    
     <br><br>
 
     <audio id="audioPlayer">
